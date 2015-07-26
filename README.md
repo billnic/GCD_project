@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "README template"  
 author: "William F. Nicodemus"  
@@ -194,3 +195,7 @@ write.table(x_avg, file="proj_data/tidy_data.txt",row.names = F)
 
  
  
+=======
+# GCD_project
+Getting and Cleaning Data Course Project
+>>>>>>> f0a1675b7d2861ba0531631588def174be6ab292

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 library(dplyr)
 library(tidyr)
 library(reshape2)
@@ -122,3 +123,6 @@ colnames(x_avg)<-x_avg_labels
 # Create a text file in proj_data directory
 #
 write.table(x_avg, file="proj_data/tidy_data.txt",row.names = F)
+=======
+y dummy
+>>>>>>> f0a1675b7d2861ba0531631588def174be6ab292

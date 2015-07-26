@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Codebook template"  
 author: "William F. Nicodemus"  
@@ -233,3 +234,6 @@ Col 35, GrpAvg.freqBodyBodyGyroJerkMag-std()
 Col 55, GrpAvg.timeBodyGyroJerkMag-mean()    
 Col 68, GrpAvg.freqBodyBodyGyroJerkMag-mean()     
 
+=======
+codebook
+>>>>>>> f0a1675b7d2861ba0531631588def174be6ab292
